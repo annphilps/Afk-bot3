@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "VITALSERVER.aternos.me:",
+    "password": "19471",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "VITALSERVER.aternos.me:19471",
+    "port": 19471,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
