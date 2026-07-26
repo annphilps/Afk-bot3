@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Murdorack-y88v.aternos.me",
-    "port": 45716
-    "version": 1.26.34.3
+    "port": 45716,
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
