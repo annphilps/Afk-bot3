@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": ".horizonte_limitado.aternos.me",
+    "port": 23031,
     "version": "",
     "try-creative": false
   },
