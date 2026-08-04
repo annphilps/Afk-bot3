@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": XP_MINECRAFT.aternos.me
+    "port": 63012
     "version": "",
     "try-creative": false
   },
