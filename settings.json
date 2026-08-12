@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HemikSMP.aternos.me",
+    "port": 26391,
     "version": "",
     "try-creative": false
   },
