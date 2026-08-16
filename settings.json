@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKplayer",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AfkPlayer",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Azharandme.aternos.me",
+    "port": 36739,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 1000,
+    "max-reconnect-delay": 1000
   },
   "movement": {
     "enabled": true,
@@ -50,16 +50,16 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 1000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
