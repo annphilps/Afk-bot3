@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Flestyw",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Flestyw",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "VerotsSmp.aternos.me",
+    "port": 11856,
     "version": "",
     "try-creative": false
   },
