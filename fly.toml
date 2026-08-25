@@ -1,0 +1,6 @@
+app = "choose-a-unique-bot-name"
+primary_region = "iad" 
+
+[processes]
+  app = "python bot.py" # CHANGE THIS to your start command (e.g. "node index.js")
+
