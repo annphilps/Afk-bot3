@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "BOOMCRAFTAST",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BOOMCRAFTSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": ".BOOMCRAFTSMPSEA1.aternos.me",
+    "port": 13838,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "BOOMCRAFT"
     },
     "anti-afk": {
       "enabled": true,
